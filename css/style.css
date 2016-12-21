@@ -1,1 +1,7 @@
-d
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.clear {
+	clear: bold;
+}
